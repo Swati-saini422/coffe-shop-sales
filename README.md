@@ -26,10 +26,6 @@ This project analyzes coffee shop sales data using Microsoft Excel to understand
 - **Daily Trends:** Examine weekday patterns.
 - **Interactive Filters:** Filter dashboard results by month and day.
 
-## 📂 Project Files
-- `Coffee Shop Sales.xlsx` — Excel workbook containing the sales data and interactive dashboard.
-- `Dashboard Screenshot.png` — Dashboard preview (optional).
-
 ## 🚀 How to Use
 1. Download the Excel workbook from this repository.
 2. Open it in Microsoft Excel.
